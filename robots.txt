@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-fr82td.yoursingles.online/sitemap.xml
